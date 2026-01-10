@@ -15,32 +15,32 @@ end
 
 def capitalize(word)
   # capitalize the first letter of the word
-  word.capitalize()
+  word.capitalize
 end
 
 def uppercase(string)
   # uppercase all letters in the string
-  string.upcase()
+  string.upcase
 end
 
 def downcase(string)
   # downcase all letters in the string
-  string.downcase()
+  string.downcase
 end
 
 def empty_string(string)
   # return true if the string is empty
-  string.empty?()
+  string.empty?
 end
 
 def string_length(string)
   # return the length of the string
-  string.length()
+  string.length
 end
 
 def reverse(string)
   # return the same string, with all of its characters reversed
-  string.reverse()
+  string.reverse
 end
 
 def space_remover(string)
